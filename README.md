@@ -6,3 +6,4 @@ Write a letter to Claude, as detailed as possible, and he will make your dream a
 - [VISCA PTZ Camera Controller](https://urfdvw.github.io/visca_ptz_camera_control/) ([repo](https://github.com/urfdvw/visca_ptz_camera_control))
 - [Re-projection](https://urfdvw.github.io/reprojection/) ([repo](https://github.com/urfdvw/reprojection)): fixing photo distortion taken with an ultra-wide lens.
 - [keyboard Forward](https://urfdvw.github.io/keyboard-forward/) ([repo](https://github.com/urfdvw/keyboard-forward)): Forward your computer's keyboard using a BLE microcontroller as a HID bridge.
+- [BareTube](https://urfdvw.github.io/BareTube/) ([repo](https://github.com/urfdvw/BareTube)): A minimal distraction-free YouTube PWA.
